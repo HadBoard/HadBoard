@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Backend Developer
+- 🔭 I’m currently working as a Fullstack Developer
 - 🌱 I’m currently learning LPIC
-- 💬 Ask me about JavaScript, PHP, Laravel
-- 📫 How to reach me: HadBoard@Hotnail.com
+- 💬 Ask me about Wordpress, JavaScript, PHP, Laravel
+- 📫 How to reach me: HadBoard@Hotmail.com
 
